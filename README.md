@@ -1,4 +1,5 @@
 # IBM Data Science Capstone: Data Science for SpaceX Launch Operations
+![alt text](https://github.com/okaforoa/ibm-data-science-capstone/blob/main/2018-02-07T071723Z_2_LYNXMPEE1600T_RTROPTP_4_SPACE-SPACEX-HEAVY.jpg)
 ## Overview
 I acted as a Data Scientist for SpaceX, a private space launch company, and my main task was to apply my data science skills to analyze various datasets and gather actionable insights.
 

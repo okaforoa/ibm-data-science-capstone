@@ -19,15 +19,24 @@ I acted as a Data Scientist for SpaceX, a private space launch company, and my m
 
 ## Skills I Practiced
 **- Data Collection**
+
 **- Data Wrangling**
+
 **- SQL Querying**
+
 **- Statistical Analysis**
+
 **- Data Visualization**
+
 **- Predictive Modeling**
+
 **- Presentation and Storytelling**
+
 ## Tools I Used
 **- SQL Databases**
+
 **- Python Libraries (such as Pandas, Matplotlib, and Scikit-Learn)**
+
 **- Data Visualization Tools**
 ## Deliverables I Produced
 1. A clean, well-organized dataset.
